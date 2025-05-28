@@ -9,4 +9,5 @@ xgboost
 dataclasses
 dill
 flask
+gunicorn
 # -e .
